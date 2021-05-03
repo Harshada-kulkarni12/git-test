@@ -31,5 +31,8 @@ body{
     z-index:0;
 }
 .navbar-dark {
-    background-color: #ce443a;
+    background-color: #df291c;
+}
+.card-header{
+    background-color: #df291c;
 }
