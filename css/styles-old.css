@@ -21,7 +21,7 @@
 .jumbotron {
   padding: 70px 30px 70px 30px;
   margin: 0px auto;
-  background: rgba(231, 89, 23, 0.822);
+  background: rgba(255, 60, 0, 0.822);
   color: floralwhite;
 }
 .address {
@@ -34,7 +34,7 @@ body {
   z-index: 0;
 }
 .navbar-dark {
-  background-color: #df291c;
+  background-color: #f13630;
 }
 .card-header {
   background-color: #df291c;
