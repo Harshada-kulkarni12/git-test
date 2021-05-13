@@ -53,6 +53,7 @@ body {
   border-bottom: 1px solid $lt-gray;
   padding: 10px;
 }
+
 .carousel {
   background: $background-dark;
 
@@ -72,4 +73,24 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1;
+}
+.modal-content {
+  .modal-header {
+    background: $background-dark;
+    color: floralwhite;
+    border-bottom: none;
+
+    .close {
+      color: floralwhite;
+    }
+  }
+
+  .modal-body {
+    background: $background-pale;
+  }
+
+  .modal-footer {
+    background: $background-light;
+    border-top: none;
+  }
 }
